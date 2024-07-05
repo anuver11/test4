@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: seagreen;
+    flex-direction: column;
+}
+.div1{
+    width: 500px;
+    height: 500px;
+    border: 2px solid rosybrown;
+    background-color: blueviolet;
+    margin: auto;
+    display: flex;
+}
+.div2{
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(165, 15, 15);
+    background-color: rgb(43, 226, 113);
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
